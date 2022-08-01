@@ -1,0 +1,12 @@
+{
+  "projectname": "leart_taro_alipay",
+  "format": 2,
+  "compileType": "miniprogram",
+  "miniprogramRoot": "dist/alipay/",
+  "compileOptions": {
+    "enableNodeModuleBabelTransform": true
+  },
+  "developOptions": {
+    "hotReload": true
+  }
+}
